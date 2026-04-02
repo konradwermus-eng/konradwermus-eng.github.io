@@ -1,0 +1,117 @@
+/* ===== GLOBAL/BODY STYLES ===== */
+#Div1 {
+    background: rgb(42, 42, 48);
+    color: rgb(230, 255, 87);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+    margin-bottom: -100px;
+}
+#Div2 {
+    background: rgb(42, 42, 48);
+    color: rgb(230, 255, 87);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -22px;
+    margin-bottom: -100px;
+}
+#Div3 {
+    background: rgb(42, 42, 48);
+    color: rgb(230, 255, 87);
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -22px;
+    margin-bottom: -100px;
+}
+#k{
+    background-color: black;
+}
+/* ===== TYPOGRAPHY ===== */
+#MyTitle {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#title3 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+#stats {
+    text-align: left;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+
+h2 {
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+/* ===== IMAGES ===== */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    size-adjust: 200px;
+}
+
+/* ===== LINKS & BUTTONS ===== */
+a {
+    color: aqua;
+    text-decoration: none;
+    font-family: fantasy;
+    background-image: url(img/PICT1868.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border: 2px solid rgb(230, 255, 87);
+    color: rgb(230, 255, 87);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: transparent;
+    border: 2px solid rgb(230, 255, 87);
+    color: rgb(230, 255, 87);
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#overskrift2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+#gem{
+    color: rgb(42, 42, 48);
+}
